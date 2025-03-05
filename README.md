@@ -1,4 +1,4 @@
-# Persian-to-English Speech Pipeline
+# Persian-to-English Speech 
 
 This project is an educational experiment designed to deepen my understanding of AI models for speech processing and machine translation. The goal is to build a complete end-to-end pipeline that:
 
