@@ -15,7 +15,8 @@ The project explores various state-of-the-art models and techniques, including O
 - **Automatic Speech Recognition (ASR):**  
   Uses OpenAI's [Whisper](https://github.com/openai/whisper) model (specifically `whisper-large-v3`) to transcribe Persian audio into text using Hugging Face pipelines.
 
-- **Machine Translation:**  
+- **Machine Translation:**
+  Translates the transcribed Persian text into English using an mT5 model.
  
 - **Text-to-Speech (TTS) & Voice Cloning (Future Work):**  
   
